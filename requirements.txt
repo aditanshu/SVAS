@@ -1,0 +1,8 @@
+streamlit
+torch
+torchvision
+opencv-python
+twilio
+geocoder
+folium
+streamlit-folium
